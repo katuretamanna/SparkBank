@@ -15,7 +15,9 @@ SparkBank is a web-based platform designed to simulate basic banking operations.
 - **Optimized User Interface**: Easy navigation and intuitive design to enhance the user experience.
 
 ## Technologies Used
-- Front-end and back-end technologies (specific technologies not listed by request).
+- HTML
+- CSS
+- JavaScript
 
 ## File Structure
 - **about.html**: About page.
